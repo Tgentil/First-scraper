@@ -1,5 +1,7 @@
 # Web Scraper
 
+ [![GitHub](https://img.shields.io/badge/Visit-My%20Profile-0891B2?style=flat-square&logo=github)](https://github.com/Tgentil)
+
 Este é um script de web scraping desenvolvido como um teste inicial para aprender sobre o tema. O objetivo deste script é extrair informações relacionadas a uma palavra de um site específico. Neste caso, utilizei-o para selecionar notícias do Avaí.
 
 **Instalação de Dependências**: Certifique-se de ter as bibliotecas necessárias instaladas em seu ambiente Python. Nesse caso, você precisará do `requests` e do `beautifulsoup4`. Você pode instalá-los usando o gerenciador de pacotes pip:
